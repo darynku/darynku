@@ -14,59 +14,15 @@
 [![](https://visitcount.itsvg.in/api?id=darynku&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<ol class="commentlist" style="
-	    overflow-wrap: normal;
-	    width: 700px;
-	    color: rgb(17, 17, 17);
-	    line-height: 1;
-	    font-size: 12pt;
-	    font-family: "MS PGothic", "ＭＳ Ｐゴシック", "Trebuchet MS", Verdana, Futura, Arial, Helvetica, sans-serif;
-	    white-space: pre;
-	    white-space-collapse: ;
-	    text-wrap-mode: ;
-	    padding: 0px;
-	    border-width: 4px;
-	    border-style: inset;
-	    border-color: rgb(204, 204, 204);
-	    border-image: initial;
-	    overflow: auto;
-	    margin: 0px;">
-	<pre style="
-	    overflow-wrap: normal;
-	    color: rgb(17, 17, 17);
-	    line-height: 1;
-	    font-size: 12pt;
-	    font-family: "MS PGothic", "ＭＳ Ｐゴシック", "Trebuchet MS", Verdana, Futura, Arial, Helvetica, sans-serif;
-	    white-space: pre;
-	    white-space-collapse: ;
-	    text-wrap-mode: ;
-	    padding: 0px;
-	    border-width: 4px;
-	    border-style: inset;
-	    border-color: rgb(204, 204, 204);
-	    border-image: initial;
-	    overflow: auto;
-	    margin: 0px;">　　　　　　　 　 　 　 ／: : : : : : : : : : : : : : : : : : : : : : : ＼
-　　　　　　 　 　 　 / : : : : : : : : : : : : : : : : : : : : : : : : : : : : .
-　　　　　　　　　　 ' : : : : : : : : : : : : : : : : : : : : : : : : : : : : : :.',
-　　　　　　　　　　': : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : :.
-　　　　　　　　 　 : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : ',
-　　　　　　　　　 {: : : : : :|: : : : : : : : :/: : : : : : : : : : :ヽ: :} : : : 八
-　　　　　　　　　 |: : : : : :|: : : : : : : : ｉ : : ;ｲ:|;ﾊ.: : : : :.:.}: ﾊ_ : : : ﾐ＼
-　　　　　　　　　 ', : : ｉ : :|: : : : : : : : | : / j:.|_,.}: : : : :.:.j/´｣_:|: :i: :ｉ　 ヽ　　　　クスリおいしいれす
-　　　　　　　　　　; : :i: :._|; : : : : : : : |:/￣|ﾉ_,,ﾘﾍ: : : :圻ﾘﾉ}:|: :|ﾊ|
-　　　　　　　　　　i : j: :{　i: : : : : : : :代圻~ｿヽ　 ＼/`"　小:.:.|　!
-　　　　　　　　　　}: ﾉ:八　i: : : : : : : |　｀¨´　　　　　 　 /:ﾉ: : :|
-　　　　　　　　　　|/: : ::::ヽi::. : : : : : |　　　　　　　　,　/:::::: : : |
-.　　　　　　 　 　 /: : : .::::::::::::. : : : :.:.ｉ　　 　 　 　 　 /: ::::::: :.八
-　　　　　　　　　/: : : .::::::::::::::::. : : : : :ｉ､　 　 　 ´’／ : : |:: : : : :.'，
-　　　　　　　　 ,: : : : ::::::::::::::::::::. : : : 八.＞　,_ .ィ:::::::: : : |､: : : : : ::.
-　　　　　　　　,: {: : :.:::::::::::::::::::::::. : : : :iﾍﾞ¨7气!}:::::::::: : |.:{ﾊ : : : : : ，
-　　　　　　　　{: |: : :::::::::::::::::::ハ::. : : : i. ∨=斗|::::::::::. :.| :i人: : : : : '
-　　　 　 　 　 -┴──…''"＼∧:::. : :.ｉ,/｝　 j!ﾄ､:::::::. :.|: :i.　＼ : : :}
-　 　 　 　 /　-─-ミ　　　　 　 ＼:,::::. :.i　　 ﾉ圦::＼:: 人┴-ミﾍ: : |
-　　　　　 j＿＿＿　　　　　　　　 ∧:::. :.!＼,j_j＼）::::＼: :＼　∧‘:.:|
-　　　　 〃///////｀ヽ　＼　 :. 　 ∧:::. |＼ﾉ ヽ　　　　＼:: ＼∧ i:|
-　　　　 {,////////////＼　 ::　.::: ∧:: |　 ＼人　　　:..:/＼:: ＼ﾉ′
+
+	<pre>　 　 　 　 　 　 　 　 　 　 　 　 　 　 　 　 　 　 　　　　 , ・ ´ ￣￣｀ ヽ
+　 ┏┓　 　 　 　 　 　 ┏┓┏┓　 ┏┓┏┳┓　　 　/: : : : : : : : : : : : : ＼..　　　　　┏┓
+┏┛┗━━┓　 ┏━┛┃┃┃　 ┃┃┃┃┃　　 /,::'/i : : : : : : : : : : ､: :ヽ..　 　 　 ┃┃
+┗┓┏━┓┣━┛┏━┛┃┃　 ┃┃┗┻╋━ i : {_{从: : : i }人 i| ｌ: :|: i | ━━┓┃┃
+　 ┃┃　 ┃┣━┓┃　 　 ┃┃　 ┃┗┓　 ┃　　|::小● ＼,リ'● 从: :|、i|　　　 ┃┃┃
+　 ┃┃　 ┃┃　 ┃┃　 　 ┃┃　 ┗┓┃　 ┗━ | :|l　 　､_,､_,　 ＊　: :|ﾉ│━━┛┗┛
+　 ┃┃　 ┃┃　 ┃┃　 　 ┃┃　 　 ┃┃　 ./⌒ヽ__|ﾍ　　 ｊ＿| 　 　j /⌒i ! 　 　 　 ┏┓
+　 ┗┛　 ┗┛　 ┗┛　 　 ┗┛　 　 ┗┛　　＼ /〃|: :l＞,､ __,　イァ/　 /::| 　 　 　 ┗┛
+　 　 　 　 　 　 　 　 　 　 　 　 　 　 　 　 　 　 　 ./〃/|:リ　 ｖ只ｖ´　{ﾍ､__∧ |
+　 　 　 　 　 　 　 　 　 　 　 　 　 　 　 　 　 　 　 ｀ヾ<　´　　 ｊ　ｊ ｢￣ヾ､三シ:|
 </pre>
-</ol>
