@@ -14,7 +14,7 @@
 [![](https://visitcount.itsvg.in/api?id=darynku&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<dd class="AA_TextData"><textarea class="AA_TextArea" aaid="14242" rows="22" cols="100">　　　　　　　 　 　 　 ／: : : : : : : : : : : : : : : : : : : : : : : ＼
+<pre>　　　　　　　 　 　 　 ／: : : : : : : : : : : : : : : : : : : : : : : ＼
 　　　　　　 　 　 　 / : : : : : : : : : : : : : : : : : : : : : : : : : : : : .
 　　　　　　　　　　 ' : : : : : : : : : : : : : : : : : : : : : : : : : : : : : :.',
 　　　　　　　　　　': : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : :.
@@ -35,4 +35,4 @@
 　 　 　 　 /　-─-ミ　　　　 　 ＼:,::::. :.i　　 ﾉ圦::＼:: 人┴-ミﾍ: : |
 　　　　　 j＿＿＿　　　　　　　　 ∧:::. :.!＼,j_j＼）::::＼: :＼　∧‘:.:|
 　　　　 〃///////｀ヽ　＼　 :. 　 ∧:::. |＼ﾉ ヽ　　　　＼:: ＼∧ i:|
-　　　　 {,////////////＼　 ::　.::: ∧:: |　 ＼人　　　:..:/＼:: ＼ﾉ′</textarea><input name="aaid" type="hidden" value="14242"></dd>
+　　　　 {,////////////＼　 ::　.::: ∧:: |　 ＼人　　　:..:/＼:: ＼ﾉ′</pre>
