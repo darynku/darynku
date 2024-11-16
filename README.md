@@ -33,7 +33,6 @@
 	    margin: 0px;">
 	<pre style="
 	    overflow-wrap: normal;
-	    width: 700px;
 	    color: rgb(17, 17, 17);
 	    line-height: 1;
 	    font-size: 12pt;
