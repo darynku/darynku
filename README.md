@@ -15,14 +15,7 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <ol class="commentlist">
-			<li class="comment even thread-even depth-1" id="comment-9341">
-				<div id="div-comment-9341" class="comment-body">
-				<div class="comment-author vcard">
-				<cite class="fn">Anonymous</cite> <span class="says">says:</span>		</div>
-
-		<div class="comment-meta commentmetadata"><a href="http://anime.en.utf8art.com/arc/steins_gate_25.html/comment-page-1#comment-9341">05/09/2023 at 3:42 AM</a></div>
-
-		<pre>　　　　　　　 　 　 　 ／: : : : : : : : : : : : : : : : : : : : : : : ＼
+	<pre>　　　　　　　 　 　 　 ／: : : : : : : : : : : : : : : : : : : : : : : ＼
 　　　　　　 　 　 　 / : : : : : : : : : : : : : : : : : : : : : : : : : : : : .
 　　　　　　　　　　 ' : : : : : : : : : : : : : : : : : : : : : : : : : : : : : :.',
 　　　　　　　　　　': : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : :.
@@ -43,9 +36,6 @@
 　 　 　 　 /　-─-ミ　　　　 　 ＼:,::::. :.i　　 ﾉ圦::＼:: 人┴-ミﾍ: : |
 　　　　　 j＿＿＿　　　　　　　　 ∧:::. :.!＼,j_j＼）::::＼: :＼　∧‘:.:|
 　　　　 〃///////｀ヽ　＼　 :. 　 ∧:::. |＼ﾉ ヽ　　　　＼:: ＼∧ i:|
-　　　　 {,////////////＼　 ::　.::: ∧:: |　 ＼人　　　:..:/＼:: ＼ﾉ′</pre>
-		<div class="reply">
-				</div>
-				</div>
-		</li>
-	</ol>
+　　　　 {,////////////＼　 ::　.::: ∧:: |　 ＼人　　　:..:/＼:: ＼ﾉ′
+</pre>
+</ol>
