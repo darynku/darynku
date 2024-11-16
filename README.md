@@ -14,16 +14,15 @@
 [![](https://visitcount.itsvg.in/api?id=darynku&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<pre style="
-        overflow-wrap: normal;
-        width: 700px;
-        line-height: 1;
-        font-size: 12pt;
-        font-family: 'MS PGothic', 'ＭＳ Ｐゴシック', 'Trebuchet MS', Verdana, Futura, Arial, Helvetica, sans-serif;
-        white-space: pre;
-        margin: 0px;
-        padding: 0px;
-        overflow: auto;">　　　　　　　 　 　 　 ／: : : : : : : : : : : : : : : : : : : : : : : ＼
+<ol class="commentlist">
+			<li class="comment even thread-even depth-1" id="comment-9341">
+				<div id="div-comment-9341" class="comment-body">
+				<div class="comment-author vcard">
+				<cite class="fn">Anonymous</cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://anime.en.utf8art.com/arc/steins_gate_25.html/comment-page-1#comment-9341">05/09/2023 at 3:42 AM</a></div>
+
+		<pre>　　　　　　　 　 　 　 ／: : : : : : : : : : : : : : : : : : : : : : : ＼
 　　　　　　 　 　 　 / : : : : : : : : : : : : : : : : : : : : : : : : : : : : .
 　　　　　　　　　　 ' : : : : : : : : : : : : : : : : : : : : : : : : : : : : : :.',
 　　　　　　　　　　': : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : :.
@@ -45,3 +44,8 @@
 　　　　　 j＿＿＿　　　　　　　　 ∧:::. :.!＼,j_j＼）::::＼: :＼　∧‘:.:|
 　　　　 〃///////｀ヽ　＼　 :. 　 ∧:::. |＼ﾉ ヽ　　　　＼:: ＼∧ i:|
 　　　　 {,////////////＼　 ::　.::: ∧:: |　 ＼人　　　:..:/＼:: ＼ﾉ′</pre>
+		<div class="reply">
+				</div>
+				</div>
+		</li>
+	</ol>
