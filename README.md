@@ -14,7 +14,16 @@
 [![](https://visitcount.itsvg.in/api?id=darynku&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<pre>　　　　　　　 　 　 　 ／: : : : : : : : : : : : : : : : : : : : : : : ＼
+<pre style="
+        overflow-wrap: normal;
+        width: 700px;
+        line-height: 1;
+        font-size: 12pt;
+        font-family: 'MS PGothic', 'ＭＳ Ｐゴシック', 'Trebuchet MS', Verdana, Futura, Arial, Helvetica, sans-serif;
+        white-space: pre;
+        margin: 0px;
+        padding: 0px;
+        overflow: auto;">　　　　　　　 　 　 　 ／: : : : : : : : : : : : : : : : : : : : : : : ＼
 　　　　　　 　 　 　 / : : : : : : : : : : : : : : : : : : : : : : : : : : : : .
 　　　　　　　　　　 ' : : : : : : : : : : : : : : : : : : : : : : : : : : : : : :.',
 　　　　　　　　　　': : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : :.
